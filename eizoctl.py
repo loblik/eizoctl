@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Python script to control EIXO FlexScan Displays using EIZO's
+# Python script to control EIZO FlexScan displays using EIZO's
 # USB HID  protocol.
 # Copyright (C) 2023 Pavel Löbl
 #
