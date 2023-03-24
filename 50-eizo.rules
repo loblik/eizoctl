@@ -1,0 +1,2 @@
+# allow members of video group to control displays
+SUBSYSTEM=="usb", ATTRS{idVendor}=="056d", ATTRS{idProduct}=="4027", GROUP="video"
